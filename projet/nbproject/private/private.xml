@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/eleve/_form.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/backend/views/layouts/_haut.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/controllers/EleveController.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/controllers/SiteController.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/eleve/index.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/models/Eleve.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/classe/_form.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/site/login.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/classe/index.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/views/layouts/_header.php</file>
+            <file>file:/C:/xampp/htdocs/yii2/yii2/frontend/controllers/ClasseController.php</file>
+        </group>
+    </open-files>
+</project-private>
