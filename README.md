@@ -10,10 +10,6 @@ Structure du projet
 
 Cloner le Projet
 
-Ensuite ajouter un dossier projet à l'intérieur du quel vous ajouterez votre projet Yii2
-
-S'il y'a un .htaccess copier le dans le dossier Docker
-
 Modifier les config de la base de donnée dans le fichier docker-compose
 
 Lancez le docker compose avec la commande docker-compose up -d
