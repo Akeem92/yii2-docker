@@ -1,0 +1,1 @@
+Projet à la racine de ce dossier avec le .htaccess
