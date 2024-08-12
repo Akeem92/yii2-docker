@@ -14,8 +14,8 @@ services:
     volumes:
       - ./mysql:/var/lib/mysql
     environment:
-      MYSQL_DATABASE: emafecar
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE:
+      MYSQL_ROOT_PASSWORD:
       MYSQL_ROOT_HOST: '%'
     ports:
       - 3306:3306
